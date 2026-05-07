@@ -32,7 +32,7 @@ argge = st.checkbox("WAIT are you a human ?")
 if argge:
     sound = open('RAGE NO. 2  Reaper 20 (Extended).mp3', 'rb')
     st.audio(sound, format='IDK/mp3')
-    st.write("GREAT you aren't a human")
+    st.write("GREAT you aren't a human sure:)")
     st.balloons()
     with st.form(key= "my form"):
         st.write("City:")
