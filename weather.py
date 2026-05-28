@@ -15,9 +15,10 @@ st.set_page_config(
 
 with st.sidebar:
 
-    with st.expander("BẢN UPDATE v1.1.2"):
-        st.write("+ 1 nhạc")
-        st.write("+1 video")
+    with st.expander("BẢN UPDATE sắp tới (v1.2.0)"):
+        st.write("Thêm chức năng report :D")
+        st.write("Cải tiến quá trình thực hiện")
+        st.write("cải tiến Quá trình xác minh")
     with st.expander("HƯỚNG DẪN SỬ DỤNG"):
             st.write("Bước 1 : Xác minh bạn có phải người không vì chúng tôi luôn sợ rằng bot sẽ làm lag trang website uy tín của chúng tôi")
             st.write("Bước 2 : Bật nhạc")
